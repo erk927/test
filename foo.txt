@@ -1,11 +1,2 @@
-<<<<<<< HEAD
 Change from someone else
 Erskine Denson
-=======
-Monday-Friday
-Erskine Denson
-Funs about to begin
-Groundhog day
-Change from someone else
-Change from local
->>>>>>> 029c1de4ec8bc62fc84b561a401f3eb6a8e4bea7
