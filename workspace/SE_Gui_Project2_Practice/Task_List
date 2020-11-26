@@ -1,0 +1,63 @@
+Too do List
+
+1. May want to move populateTeamChoiceBox, and choiceBoxSelection from MainApp class to PlayerOverview now that I got everything in 1 window
+
+
+
+----- Wednesday -----
+Update time log
+
+1. Download our code from Github
+	-Read through it and understand it
+	
+2. Get Evan's branch of code to work for me
+	-Contact him if I need to
+	
+3. Merge Evan's branch if everything makes sense
+	-Give good comments and other stuff
+
+4. Go through or Project Board
+	-See what needs to be done
+	-Add new issues
+	-etc
+	
+5. Edit our code
+	-Make it work with the view change I have here
+ 	-Clean it up
+ 	
+6. Add new features
+	-Stuff on project board
+	-Team banner where label is
+	•Details
+		-New dialog that shows image and all of a players stats vertically
+		-look for small player images and banners
+		-learn how images work
+	-
+ 
+ 7. Add Team view
+ 	-Opens new view with team names and the average of all the players in that teams stats
+ 	-Details button in this view should open up PLayerOverview with the highlighted team selected
+ 	-Not sure if Team should be a button or drop-down option or what?
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ What i've done: 11/25
+ -Cleaned up MainApp: 
+ 	-moved stuff in main to their own methods and put some of it in Constructor, moved Team
+ 	-Added Comments and reorganized methods to make it easier to read
+ 	-Changed some variable names
+ -PlayerOverviewCOntroller
+ 	-Reorganized code
+ 	-Added comments
+ 	-
